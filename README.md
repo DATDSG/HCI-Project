@@ -21,3 +21,9 @@ A mobile application that allows MunchMate to operate closely with its Customers
 ## colour palette
 
 ![Group 12](https://github.com/DATDSG/HCI-Project/assets/172403569/93936dd1-c13b-49c7-a9a4-2b73375fd72f)
+
+## User personas
+* Novice User-K.A. Premarathna(persona/2.png)
+* Intermediate user-Arindu Dunuwara(persona/1.png)
+* Expert user-Pathum gimhan(persona/3.png)
+
