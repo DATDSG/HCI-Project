@@ -1,5 +1,4 @@
-# Applying user-centered design principles to the proposed organizational system
-
+# Design UI/UX for Munchmate brand
 ## Munchmate mobile application 
 ![Logo 3](https://github.com/DATDSG/HCI-Project/assets/172403569/fbb59ccf-a56b-4e7f-81d4-d7f2474fc5d2)
 
