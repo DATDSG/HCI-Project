@@ -17,3 +17,7 @@ A mobile application that allows MunchMate to operate closely with its Customers
 3. User personas
 4. Wireframe
 5. Prototype and Annotations
+
+## colour palette
+
+![Group 12](https://github.com/DATDSG/HCI-Project/assets/172403569/93936dd1-c13b-49c7-a9a4-2b73375fd72f)
