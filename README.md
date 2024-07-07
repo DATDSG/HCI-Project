@@ -11,4 +11,10 @@ We designed a mobile application interface for an organization that planning to 
 * Inability for the restaurants to adapt to technological change
 
 ## Proposed solution
-A mobile application that allows MunchMate to operate closely with its Customers by giving full-fledged functionalities by reducing waiting times and overall efficiency of the business process.
+A mobile application that allows MunchMate to operate closely with its Customers by giving full-fledged functionalities by reducing waiting times and overall efficiency of the business process. we followed the following approach.
+
+1. Problem Statement
+2. User profiles
+3. User personas
+4. Wireframe
+5. Prototype and Annotations
