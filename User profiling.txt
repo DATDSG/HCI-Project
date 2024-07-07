@@ -1,0 +1,22 @@
+Profile 1
+
+Age: 18-30 years
+Gender: 70% Male
+Job roles: Student, Assistant manager, Teacher, Business coordinator
+Location: Ja-ela, Ganemulla (Western province)
+Technical skills: Medium to High
+Vehicle types – 70% owns a car, 30% Motor bike
+Food preference - 30% vegetarian
+Usage of online applications – Not regularly
+03
+
+Profile 2
+
+Age: 31-55 years
+Gender: 60% Male
+Job roles: Clerk, Teacher, Engineering Assistant, Computing Instructor
+Location: Ja-ela, Kadawatha, Kandana (Western province)
+Technical skills: Low to High
+Vehicle types – 80% own a car, 20% Motorbike
+Food preference - 20% vegetarian
+Usage of online applications – Not regularly
