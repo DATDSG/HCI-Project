@@ -2,7 +2,7 @@
 ## Munchmate mobile application 
 ![Logo 3](https://github.com/DATDSG/HCI-Project/assets/172403569/fbb59ccf-a56b-4e7f-81d4-d7f2474fc5d2)
 
-We designed a mobile application interface for an organization that planning to establish in Gimasha service station. we designed the interfaces according to human-centered designing principles, Shneiderman's eight golden rules, The norman theorem, and Jakob Neilson's general principle for interaction design. 
+We designed a mobile application interface for an organization planning to establish in Gimasha service station. we designed the interfaces according to human-centered designing principles, Shneiderman's eight golden rules, The norman theorem, and Jakob Neilson's general principle for interaction design. 
 
 ## Problem statement
 * Long Queue Waiting times
@@ -10,7 +10,7 @@ We designed a mobile application interface for an organization that planning to 
 * Inability for the restaurants to adapt to technological change
 
 ## Proposed solution
-A mobile application that allows MunchMate to operate closely with its Customers by giving full-fledged functionalities by reducing waiting times and overall efficiency of the business process. we followed the following approach.
+A mobile application that allows MunchMate to operate closely with its customers by providing full-fledged functionalities, reducing waiting times, and improving the overall efficiency of the business process. we followed the following approach.
 
 1. Problem Statement
 2. User profiles
